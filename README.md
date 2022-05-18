@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👨🏻‍💻 I’m currently working on A/B testing project
+- 👨🏻‍💻 I’m currently working on Data Science Capstone Project
 - 🌱 I’m currently learning advanced functions and frameworks for SQL and R
 - 💼 I’m looking for job opportunities in Data Analytics and Product Development 
 - 🤔 I’m looking for help with machine learning
