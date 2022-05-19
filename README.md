@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👨🏻‍💻 I’m currently working on Data Science Capstone Project
+- 👨🏻‍💻 I’m currently working on Data Engineering, Big Data, and Machine Learning on GCP Specialization
 - 🌱 I’m currently learning advanced functions and frameworks for SQL and R
 - 💼 I’m looking for job opportunities in Data Analytics and Product Development 
 - 🤔 I’m looking for help with machine learning
